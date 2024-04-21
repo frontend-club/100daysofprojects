@@ -1,0 +1,30 @@
+/* -----------------
+Tabla de contenidos:
+--------------------
+1. Fuente ......................... 10
+2. Variables ...................... 13
+3. Estilos generales .............. 32
+-------------------- */
+
+/* ----- Fuente ----- */
+@import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
+
+/* ----- Variables ----- */
+:root {
+  /* colores */
+  --color: #333;
+
+  /* config. */
+  --fuente: "Montserrat", sans-serif;
+  --ft-size: 1rem;
+  --l-height: 22px;
+}
+
+/* ----------------------------- */
+/* ----- Estilos generales ----- */
+/* ----------------------------- */
+body {
+  font-family: var(--fuente);
+  background: linear-gradient(to right, #43389f, #4ec6ca);
+  color: #fff;
+}
