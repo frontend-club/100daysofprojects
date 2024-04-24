@@ -1,6 +1,6 @@
 # 🏆Desafío de codificación - #100daysofprojects⭐
 
-El **desafío #100daysofprojects** te ayuda a mejorar tus habilidades de codificación en HTML, CSS y JavaScript, mediante la construcción de proyectos geniales durante los próximos 100 días.
+El desafío #100daysofprojects te ayuda a **mejorar tus habilidades de codificación** en HTML, CSS y JavaScript, mediante la construcción de proyectos geniales durante los próximos 100 días. Además, aprenderás a **colaborar con otros desarrolladores** y **crear recursos** de valor para la comunidad.
 
 ![screenshot](https://i.imgur.com/bvRWANP.png)
 
@@ -8,10 +8,10 @@ El **desafío #100daysofprojects** te ayuda a mejorar tus habilidades de codific
 
 - [Descripcion general](#descripcion-general)
 - [Instrucciones](#instrucciones)
-  - [Reto de codificacion](#reto-de-codificacion)
-  - [Creacion de recursos](#creacion-de-recursos)
-  - [Ayudar a otros](#ayudar-a-otros)
-- [Sistema de puntuacion](#sistema-de-puntuacion)
+  - [Retos](#retos)
+  - [Ayudar](#ayudar)
+  - [Crear](#crear)
+- [Puntuacion](#puntuacion)
 - [Premios](#premios)
 - [Ranking](#ranking)
 - [Comunidad](#comunidad)
@@ -22,23 +22,30 @@ El **desafío #100daysofprojects** te ayuda a mejorar tus habilidades de codific
 
 ## Descripcion general
 
-El desafío 100daysofprojects **impulsa la creatividad**, el **trabajo en equipo** y la **disciplina de aprender** todos los días.
+El **desafío de codificación 100daysofprojects es una iniciativa completamente gratuita** para todo el que desee mejorar sus habilidades en HTML, CSS y JavaScript, mediante la construcción de 100 proyectos durante los próximos 100 días. Además, te brindamos una lista de premios al completar los retos propuestos que incluyen: codificar 100 proyectos, ayudar a otros y crear recursos.
 
-El desafío 100daysofprojects construye:
+Nuestros 3 pilares fundamentales:
 
-1. **Disciplina de aprender**: Los participantes desarrollan el hábito de aprender todos los días al completar un proyecto durante los próximos 100 días.
-2. **Trabajo en equipo**: Los participantes tienen como requisito ayudar a otros compañeros con problemas relacionados al reto 100daysofprojects.
-3. **Creatividad**: Los participantes crean recursos útiles relacionados al reto 100daysofprojects.
-4. **Competitividad**: Los participantes reciben estrellas por el punto 1, 2 y 3 expuestos anteriormente.
-5. **Premios**: Los participantes acceden a una lista de premios después de acumular una cantidad de estrellas.
+1. Aprender
+   - Codificar 100 proyectos
+   - Quizzes: HTML, CSS y JS
+2. Ayudar
+   - Colaborar con los participantes
+   - Colaborar con los proyectos 100daysofprojects
+3. Crear
+   - Guías
+   - Tutoriales
+   - Recursos educativos
 
 ## Instrucciones
 
-El participante debe [registrarse en el desafío 100daysofprojects](https://frontendclub.ck.page/nueva-temporada-100daysofprojects) para iniciar con los retos de codificación durante los próximos 100 días.
+Para ser parte del reto 100daysofprojects [regístrate](https://frontendclub.ck.page/nueva-temporada-100daysofprojects), confirma tu correo y todos los días recibirás un desafío de codificación que deberás completar durante el día, por los próximos 100 días.
 
-### Reto de codificacion
+A continuación, explicamos el funcionamiento de los retos de codificación, colaborar con otros participantes y crear recursos.
 
-Así funcionan los retos de codificación:
+### Retos
+
+Funcionamiento de los retos de codificación:
 
 - El participante **recibe un reto todos los días** en su correo electrónico.
 - El participante codifica el reto de acuerdo a los **requerimientos establecidos en cada proyecto**.
@@ -49,9 +56,20 @@ Así funcionan los retos de codificación:
 - El participante **recibe estrellas** de acuerdo al sistema de calificación establecido.
 - El participante **ingresa a un ranking** y se establece la posición de acuerdo a las estrellas acumuladas.
 
-### Creacion de recursos
+### Ayudar
 
-El participante tiene la posibilidad de **ganar más estrellas** creando recursos relevantes y relacionados al desafío 100daysofprojects.
+El participante tiene más posibilidades de **ganar estrellas** ayudando a otros.
+
+- Los participantes publican sus problemas de codificación en el **canal #ayuda** en Discord.
+- El participante ayuda a resolver el problema de codificación.
+- El participante envía la información necesaria de la persona que ayudó.
+- Frontend Club evalúa y **aprueba la ayuda brindada** por el participante.
+- El participante **recibe 5 estrellas** por la ayuda brindada.
+- Frontend Club **actualiza el ranking** de acuerdo a las estrellas acumuladas por el participante.
+
+### Crear
+
+El participante tiene la posibilidad de **ganar más estrellas** creando recursos relacionados al desafío 100daysofprojects.
 
 - Frontend Club **recomendará temas** relacionados al desafío 100daysofprojects para crear recursos.
 - El participante puede **seguir los temas recomendados o elegir uno propio**.
@@ -63,45 +81,32 @@ El participante tiene la posibilidad de **ganar más estrellas** creando recurso
 
 > El participante es libre de compartir recursos en los canales que desee, pero no se otorgarán estrellas por ello.
 
-### Ayudar a otros
-
-El participante tiene más posibilidades de **ganar estrellas** ayudando a otros.
-
-- Los participantes publican sus problemas de codificación en el **canal #ayuda** en Discord.
-- El participante ayuda a resolver el problema de codificación a otro.
-- El participante envía la información necesaria de la persona que ayudó.
-- Frontend Club evalúa y **aprueba la ayuda brindada** por el participante.
-- El participante **recibe 5 estrellas** por la ayuda brindada.
-- Frontend Club **actualiza el ranking** de acuerdo a las estrellas acumuladas por el participante.
-
-## Sistema de puntuacion
+## Puntuacion
 
 Los proyectos se califican de la siguiente manera:
 
 - ⭐⭐⭐
-  - El proyecto cumple los requerimientos establecidos en el reto.
+  - El participante ayuda a otro.
   - El participante crea un recurso.
-  - El participante ayuda a otros.
+  - El proyecto cumple 100% con los requerimientos establecidos en el reto.
 - ⭐⭐
-  - El proyecto cumple con el 90% de los requerimientos establecidos.
-- ⭐
-  - El proyecto cumple con el 70% de los requerimientos establecidos.
+  - El proyecto NO cumple 100% con los requerimientos establecidos en el reto.
 
 ## Premios
 
 El participante accederá a la lista de premios de acuerdo a la siguiente tabla:
 
-| Requisito                                       | Premios                                                                |
+| Logros                                          | Premios                                                                |
 | ----------------------------------------------- | ---------------------------------------------------------------------- |
 | 100/100 proyectos, 10/10 ayudas, 10/10 recursos | [Certificado](https://campus.w3schools.com/collections/certifications) |
 | 100/100 proyectos, 5/5 ayudas, 5/5 recursos     | [Suscripción](https://ed.team/)                                        |
 | 100/100 proyectos, 1/1 ayuda, 1/1 recurso       | [Pegatinas](https://www.redbubble.com/es/shop/desarrollo+web+stickers) |
 
-> El participante debe enviar un correo a Frontend Club para reclamar sus premios.
+> El ganador debe enviar un correo a Frontend Club para reclamar los premios.
 
 ## Ranking
 
-Los participantes ingresan a un ranking de posiciones de acuerdo a la cantidad de proyectos, ayudas y recursos completados.
+Los participantes ingresan a un ranking donde podrán visualizar el progreso de los retos completados en general:
 
 | Nombre  | Progreso                                     |
 | ------- | -------------------------------------------- |
@@ -111,8 +116,9 @@ Los participantes ingresan a un ranking de posiciones de acuerdo a la cantidad d
 
 ## Comunidad
 
-Únete a los canales oficiales #100daysofprojects para aprender en comunidad. Ya somos más de 500 personas codificando y trabajando en equipo todos los días.
+Somos más de 500 personas codificando, ayudando y creando recursos para la comunidad.
 
+- [Blog](https://frontend-club.hashnode.dev/)
 - [Discord](https://discord.gg/sPD4EW2g)
 - [Grupo Facebook](https://www.facebook.com/groups/100daysofprojects/)
 - [Grupo WhastApp](https://chat.whatsapp.com/EJR1TBWu1Pc6Gz33i2mASa/)
@@ -124,14 +130,18 @@ Los participantes ingresan a un ranking de posiciones de acuerdo a la cantidad d
 
 Lea atentamente los términos y condiciones sobre el desafío 100daysofprojects.
 
-- El participante será expulsado del reto 100daysofproject si se descubré que ha clonado proyectos de otro estudiante y lo hace pasar como propio.
+- El participante será expulsado del reto 100daysofproject si se descubré que ha clonado proyectos de otros participantes y lo hace pasar como propio.
 - El participante puede guiarse de otros proyectos o tomar fragmentos de código, pero siempre dar los créditos al autor.
-- Respetar las preguntas de los participantes, si te parece tonto o fácil, por favor sea amable y vea como una oportunidad para ayudar.
+- Respetar las preguntas de los participantes, si te parece tonto o fácil, por favor sea amable y vealo como una oportunidad para ayudar.
 - Esta permitido publicar memes de programación y cualquier contenido que vaya relacionado al desafío 100daysofprojects.
+- El participante puede ayudar a otros participantes las veces que quiera, pero siempre dentro del canal #ayuda en Discord.
+- El participante se compromete a crear recursos que sean relevantes para la comunidad.
+- Los recursos que los participantes creen, será publicado en nuestro [blog](https://frontend-club.hashnode.dev/) otorgando la debida autoría.
 
 ## Contactanos
 
 Siempre es una alegría recibir sugerencias e ideas para mejorar los desafíos de codificación.
+Haz la diferencia y ayúdanos a crecer aquí👇:
 
 - [Boletín de sugerencias 1](#pronto)
 - [Boletín de sugerencias 2](#pronto)
@@ -140,7 +150,7 @@ Siempre es una alegría recibir sugerencias e ideas para mejorar los desafíos d
 ## Compra un cafe
 
 Detrás de esta iniciativa de codificación #100daysofprojects hay personas con pasión por ayudar y compartir.
-Si lo prefieres, puedes invitarnos un café aquí:
+¿Listo para celebrar con un café y aventurarnos en la próxima iniciativa?
 
 - [Buymeacoffee](https://buymeacoffee.com/xantosromero)
 - [Paypal](https://www.paypal.com/paypalme/xantosromero)
