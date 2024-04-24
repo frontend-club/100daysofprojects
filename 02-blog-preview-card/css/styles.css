@@ -1,0 +1,30 @@
+/* -----------------
+Tabla de contenidos:
+--------------------
+1. Fuente ......................... 11
+2. Variables ...................... 15
+3. Estilos generales .............. 33
+-------------------- */
+
+/* ----- Fuente ----- */
+@import url("https://fonts.googleapis.com/css2?family=Figtree:wght@600;800&display=swap");
+
+/* ----- Variables ----- */
+:root {
+  /* colores */
+  --color: #181a1b;
+
+  /* config. */
+  --fuente: "Figtree", sans-serif;
+  --ft-size: 1rem;
+  --l-height: 22px;
+}
+
+/* ----------------------------- */
+/* ----- Estilos generales ----- */
+/* ----------------------------- */
+body {
+  font-family: var(--fuente);
+  background: linear-gradient(to right, #fffdcd, #a3e6ff);
+  color: var(--color);
+}
