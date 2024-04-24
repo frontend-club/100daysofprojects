@@ -1,8 +1,8 @@
 # Nombre del proyecto - 100daysofprojects
 
-[Nombre del proyecto] construido con HTML, CSS y JavaScript, para mejorar nuestras habilidades de codificación. Este proyecto es parte del desafío de codificación #100DaysOfProjects promovido por [Frontend Club](https://www.facebook.com/frontendclubfb).
+[Nombre del proyecto] construido con HTML, CSS y JavaScript, para mejorar nuestras habilidades de codificación. Este proyecto es parte del desafío #100daysofprojects promovido por [Frontend Club](https://www.facebook.com/frontendclubfb).
 
-![Screenshot](https://picsum.photos/id/20/1200/800)
+![Screenshot](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
 
 ### Tabla de contenidos
 
@@ -20,35 +20,37 @@
 
 ### El desafio
 
-Se requiere codificar una tarjeta de perfil personal con los datos del desarrollador, usando HTML, CSS y JavaScript.
-Lograr que se parezca lo más posible al diseño proporcionado.
+Codificar una **tarjeta de perfil personal**, usando HTML, CSS y JavaScript, y lograr que se parezca lo más posible al diseño.
 
-Los usuarios deberían ser capaces:
+Los usuarios deberían poder:
 
-- Ver el diseño óptimo en cualquier tipo de dispositivo
-- Ver un estado `hover` al pasar el mouse sobre el botón
-- Ver un mensaje de error si se envía el campo vacío
-- Ver un mensaje si el formato del correo no es el correcto
-- **Bonus**: Agregar animaciones (scaleY) al pasar el mouse sobre los íconos.
+- Ver el diseño óptimo en pantallas grandes.
+- Ver un color (`hover`) de fondo diferente al pasar el mouse sobre el ícono.
 
 ### Capturas
 
-Aquí puedes agregar capturas de pantalla móvil, tablet y escritorio.
-Firefox te permite hacer capturas de pantalla y fáciles de editar.
+Agrega capturas de pantalla en móvil, tabletas y escritorio.
+
+![Captura](https://i.imgur.com/IkSnFRL.png)
+
+> 💡Firefox te permite hacer capturas de pantalla haciendo clic derecho `Hacer captura de pantalla`.
 
 ### Enlaces
 
-Agrega los enlaces de la solución del proyecto y el repositorio del proyecto.
+Agrega los enlaces de la solución del proyecto y el repositorio.
+
+- [Proyecto](#)
+- [Repositorio](#)
 
 ## Flujo de trabajo
 
 ### Desarrollo
 
-Agrega lo que consideres conveniento y que pueda ayudar a los demás participantes. Por ejemplo.
+Agrega el flujo de trabajo y las tecnologías que has utilizado para completar el proyecto.
 
-1. Agrega las tecnologías que hayas usado para completar el proyecto.
-2. Agrega fragmentos de código que consideres sea útil para otros participantes.
-3. Agrega la estructura del proyecto.
+Ejemplo:
+
+**Estructura del proyecto**
 
 ```txt
 /
@@ -61,20 +63,115 @@ Agrega lo que consideres conveniento y que pueda ayudar a los demás participant
 └── README.md
 ```
 
+**Tecnologías**
+
+1. HTML Semántico
+2. Estilos CSS
+3. Animaciones CSS
+4. Metodología BEM
+5. Responsively App
+
+**Flujo de desarrollo**
+
+1. Análisis del diseño
+2. Configuración inicial
+   - Instalación de módulos y dependencias
+   - Vincular archivos y librerías
+   - Iniciar proyecto con Git
+3. Marcado HTML
+   - Etiquetas `meta`
+   - Etiquetas `OG`
+4. Estilos CSS
+   - De arriba hacia abajo
+   - Definición de variables
+   - Estilos reutilizables
+   - Estilos personalizados
+   - Media queries
+5. Flujo de trabajo `mobile-first`
+
+**Fragmentos de codigo**
+
+Etiquetas `meta` para el SEO.
+
+```html
+<meta name="author" content="Nombre del autor" />
+<meta name="title" content="Título del proyecto" />
+<meta
+  name="description"
+  content="Breve descripción del contenido del proyecto"
+/>
+<title>Profile Card - Frontend Club</title>
+```
+
+Menú de navegación HTML usando BEM.
+
+```html
+<nav class="main-nav" aria-label="Main">
+  <ul class="main-nav__list">
+    <li class="main-nav__item">
+      <a href="#" class="main-nav__link">Home</a>
+    </li>
+    <li class="main-nav__item">
+      <a href="#" class="main-nav__link">Work</a>
+    </li>
+    <li class="main-nav__item">
+      <a href="#" class="main-nav__link">About us</a>
+    </li>
+  </ul>
+</nav>
+```
+
+Animaciones CSS.
+
+```css
+/* Estilos básicos del div */
+.scaley-div {
+  width: 200px;
+  height: 50px;
+  background-color: #3498db;
+  color: #fff;
+  text-align: center;
+  line-height: 50px;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+/* Estilo al hacer hover */
+.scaley-div:hover {
+  transform: scaleY(1.5);
+}
+```
+
 ### Recursos
 
-Comparte una lista de recursos que hayas utilizado en este proyecto. Esto ayudará a los demás a encontrarlo útil.
+Comparte los recursos que hayas utilizado para completar este proyecto.
 
-- [CSS Overlay](https://www.w3schools.com/howto/howto_css_image_overlay.asp)
-- [Zebra tables](https://www.w3schools.com/howto/howto_css_table_zebra.asp)
-- [Timeline Workflow](https://www.w3schools.com/howto/howto_css_timeline.asp)
+1. Este recurso me ayudó a crear efectos overlay sobre una imagen.
+   - [CSS Overlay](https://www.w3schools.com/howto/howto_css_image_overlay.asp)
+   - [Overlay](https://www.w3schools.com/howto/howto_css_image_overlay.asp)
+2. Este recurso me ayudó a crear tablas en HTML tipo zebra.
+   - [Zebra tables](https://www.w3schools.com/howto/howto_css_table_zebra.asp)
+3. Este recurso me ayudó a crear un timeline del tiempo para mi portafolio.
+   - [Timeline Workflow](https://www.w3schools.com/howto/howto_css_timeline.asp)
 
 ## Agradecimientos
 
-Agradece a las personas que te inspiran a seguir adelante, o algunas fuentes que te hayan impactado para seguir adelante.
-Agradecer es una virtud
+Agradece a las personas que te inspiran a seguir adelante, o fuentes que te hayan impactado para ser mejor cada día.
+
+- Mi madre que siempre me apoya en mis proyectos
+- Mi amigo Juan que siempre me comparte recursos de desarrollo web
+- Mi profesor John que siempre escucha mis ideas
+- Comunidad Frontend Club que siempre están apoyando con cualquier mínima cosa que surja
 
 ## Contacto
 
-Hazlo fácil.
-Agrega los medios más usados para que la gente pueda contactarte y hablar sobre tus siguientes grandes proyectos.
+Agrega los medios de contacto para que cualquiera pueda encontrarte y hablar sobre tus siguientes grandes proyectos.
+
+- [LinkedIn](#)
+- [Facebook](#)
+- [GitHub](#)
+- [Correo](#)
+
+---
+
+> _La mejor manera de aprender a programar es practicando todos los días._ — **Frontend Club**
