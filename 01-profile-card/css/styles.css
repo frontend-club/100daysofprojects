@@ -12,9 +12,9 @@ Tabla de contenidos:
 /* ----- Variables ----- */
 :root {
   /* colores */
-  --color: #333;
+  --color: #181a1b;
 
-  /* config. */
+  /* configuracion */
   --fuente: "Montserrat", sans-serif;
   --ft-size: 1rem;
   --l-height: 22px;
@@ -25,6 +25,6 @@ Tabla de contenidos:
 /* ----------------------------- */
 body {
   font-family: var(--fuente);
-  background: linear-gradient(to right, #43389f, #4ec6ca);
-  color: #fff;
+  background: linear-gradient(to right, #fffdcd, #a3e6ff);
+  color: var(--color);
 }
