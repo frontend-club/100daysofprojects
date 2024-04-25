@@ -17,7 +17,7 @@ El desafío #100daysofprojects te ayuda a **mejorar tus habilidades de codificac
 - [Comunidad](#comunidad)
 - [Terminos y condiciones](#terminos-y-condiciones)
 - [Contactanos](#contactanos)
-- [Compra un cafe](#compra-un-cafe)
+- [Brindemos con un cafe](#brindemos-con-un-cafe)
 - [Preguntas frecuentes](#preguntas-frecuentes)
 
 ## Descripcion general
@@ -147,13 +147,14 @@ Haz la diferencia y ayúdanos a crecer aquí👇:
 - [Boletín de sugerencias 2](#pronto)
 - [Boletín de sugerencias 3](https://www.facebook.com/frontendclubfb)
 
-## Compra un cafe
+## Brindemos con un cafe
 
 Detrás de esta iniciativa de codificación #100daysofprojects hay personas con pasión por ayudar y compartir.
 ¿Listo para celebrar con un café y aventurarnos en la próxima iniciativa?
 
 - [Buymeacoffee](https://buymeacoffee.com/xantosromero)
 - [Paypal](https://www.paypal.com/paypalme/xantosromero)
+- [Nequi Colombia](https://clientes.nequi.com.co/recargas)
 
 ## Preguntas frecuentes
 
