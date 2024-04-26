@@ -20,7 +20,7 @@
 
 ### El desafio
 
-Codificar una **tarjeta de perfil personal**, usando HTML, CSS y JavaScript, y lograr que se parezca lo más posible al diseño.
+Codificar una **tarjeta de blog vista previa**, usando HTML, CSS y JavaScript, y lograr que se parezca lo más posible al diseño.
 
 Los usuarios deberían poder:
 
